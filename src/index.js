@@ -1,3 +1,10 @@
+/*
+ * @Description: In User Settings Edit
+ * @Author: your name
+ * @Date: 2019-08-22 15:25:25
+ * @LastEditTime: 2019-08-22 15:25:56
+ * @LastEditors: Please set LastEditors
+ */
 import React from 'react';
 import ReactDOM from 'react-dom';
 import Route from './router/';
@@ -8,7 +15,7 @@ import './style/index.css';
 import registerServiceWorker from './registerServiceWorker';
 const render = Component => {
   ReactDOM.render(
-    //绑定redux、热加载
+    //绑定redux、热加载1
     <Provider store={store}>
       <AppContainer>
         <Component />
