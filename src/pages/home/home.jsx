@@ -95,7 +95,7 @@ class App extends Component {
 
 
   render() {
-    let html = <h1>标题1</h1>;
+    let html = <h1>标题</h1>;
     return (
       <div className="App">
         <header className="App-header">
