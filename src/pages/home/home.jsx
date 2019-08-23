@@ -95,11 +95,7 @@ class App extends Component {
 
 
   render() {
-<<<<<<< HEAD
     let html = <h1>标题321</h1>;
-=======
-    let html = <h1>标题123</h1>;
->>>>>>> feature/v1.02
     return (
       <div className="App">
         <header className="App-header">
