@@ -7,7 +7,7 @@ class Lesson2 extends Component {
         super();
         this.state = { 
             currentIndex : 134,
-            a:'v0.1'
+            a:'v0.2'
         };
     }
 	//在渲染前调用,在客户端也在服务端。
