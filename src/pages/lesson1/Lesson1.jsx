@@ -37,7 +37,7 @@ class Lesson1 extends Component {
   	render() {
 	    return (
 	      	<div className="center">
-		        <h1><Link to="/">路由返回v0.1</Link></h1>
+		        <h1><Link to="/">路由返回v0.2</Link></h1>
 		        <h1 onClick={this.handleClick}>JS返回</h1>
 	      	</div>
 	    );
